@@ -11,3 +11,5 @@ Below are some resources I found useful when starting to learn React and how to 
 * Found this useful when trying to set up a multi page app: http://gregblogs.com/how-django-reactjs-and-browserify/
 
 * Setting up react-router: http://kennypham.me/tutorial-setting-up-react-router-with-django/
+
+* Using jsonp with Django REST Framework: http://www.django-rest-framework.org/api-guide/renderers/ and http://stackoverflow.com/questions/11813170/using-jsonp-with-the-django-rest-framework
